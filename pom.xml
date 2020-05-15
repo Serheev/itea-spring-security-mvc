@@ -30,7 +30,7 @@
         <hibernate.entitymanager.version>6.0.0.Alpha4</hibernate.entitymanager.version>
         <hibernate.javax.persistence.version>1.0.2.Final</hibernate.javax.persistence.version>
         <!-- Jackson JSON handler -->
-        <jackson.version>2.9.3</jackson.version>
+        <jackson.version>2.11.0</jackson.version>
         <!-- Dto/Entity mapping -->
         <modelmapper.version>2.3.5</modelmapper.version>
         <!-- Jstl Dependencies -->
